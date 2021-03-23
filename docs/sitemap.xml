@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/pages/my-first-page/</loc>
+    <loc>https://obaskerville.github.io/personal-site/pages/my-first-page/</loc>
     <lastmod>2021-03-12T13:42:04+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/pages/</loc>
+    <loc>https://obaskerville.github.io/personal-site/pages/</loc>
     <lastmod>2021-03-12T13:42:04+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://obaskerville.github.io/personal-site/</loc>
     <lastmod>2021-03-12T13:42:04+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://obaskerville.github.io/personal-site/posts/</loc>
     <lastmod>2021-03-12T13:40:55+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://obaskerville.github.io/personal-site/posts/my-first-post/</loc>
     <lastmod>2021-03-12T13:40:55+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://obaskerville.github.io/personal-site/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://obaskerville.github.io/personal-site/tags/</loc>
   </url><url>
-    <loc>http://example.org/posts/takamiya-44-1r/</loc>
+    <loc>https://obaskerville.github.io/personal-site/posts/takamiya-44-1r/</loc>
   </url>
 </urlset>

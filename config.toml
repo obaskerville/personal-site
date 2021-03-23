@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://obaskerville.github.io/personal-site/"
 languageCode = "en-us"
 title = "Sir Winston Waxicuticle, M.D."
 theme = "ananke"

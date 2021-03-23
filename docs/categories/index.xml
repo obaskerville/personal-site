@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sir Winston Waxicuticle, M.D.</title>
-    <link>http://example.org/categories/</link>
+    <link>https://obaskerville.github.io/personal-site/categories/</link>
     <description>Recent content in Categories on Sir Winston Waxicuticle, M.D.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://obaskerville.github.io/personal-site/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

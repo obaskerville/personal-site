@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Sir Winston Waxicuticle, M.D.</title>
-    <link>http://example.org/pages/</link>
+    <link>https://obaskerville.github.io/personal-site/pages/</link>
     <description>Recent content in Pages on Sir Winston Waxicuticle, M.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Mar 2021 13:42:04 +0000</lastBuildDate><atom:link href="http://example.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 13:42:04 +0000</lastBuildDate><atom:link href="https://obaskerville.github.io/personal-site/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My CV</title>
-      <link>http://example.org/pages/my-first-page/</link>
+      <link>https://obaskerville.github.io/personal-site/pages/my-first-page/</link>
       <pubDate>Fri, 12 Mar 2021 13:42:04 +0000</pubDate>
       
-      <guid>http://example.org/pages/my-first-page/</guid>
+      <guid>https://obaskerville.github.io/personal-site/pages/my-first-page/</guid>
       <description>this is a test page</description>
     </item>
     

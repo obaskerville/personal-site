@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sir Winston Waxicuticle, M.D.</title>
-    <link>http://example.org/</link>
+    <link>https://obaskerville.github.io/personal-site/</link>
     <description>Recent content on Sir Winston Waxicuticle, M.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Mar 2021 13:42:04 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 13:42:04 +0000</lastBuildDate><atom:link href="https://obaskerville.github.io/personal-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My CV</title>
-      <link>http://example.org/pages/my-first-page/</link>
+      <link>https://obaskerville.github.io/personal-site/pages/my-first-page/</link>
       <pubDate>Fri, 12 Mar 2021 13:42:04 +0000</pubDate>
       
-      <guid>http://example.org/pages/my-first-page/</guid>
+      <guid>https://obaskerville.github.io/personal-site/pages/my-first-page/</guid>
       <description>this is a test page</description>
     </item>
     
     <item>
       <title>Resumé</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://obaskerville.github.io/personal-site/posts/my-first-post/</link>
       <pubDate>Fri, 12 Mar 2021 13:40:55 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://obaskerville.github.io/personal-site/posts/my-first-post/</guid>
       <description>Research Interests I am a medieval historian of Europe and Britain with a particular focus on twelfth-century Anglo-Norman written records, from charters and cartularies to codex histories, and their use in the construction of regional, religious, social, and political identities. I have conducted original research on nationbuilding, ethnicity, gender, and nobility in Scotland, England, and Normandy, drawing on a variety of methods including prosopography, charter diplomatic, textual history and criticism, and art history.</description>
     </item>
     
     <item>
       <title>Takamiya 44 f.1r</title>
-      <link>http://example.org/posts/takamiya-44-1r/</link>
+      <link>https://obaskerville.github.io/personal-site/posts/takamiya-44-1r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/takamiya-44-1r/</guid>
+      <guid>https://obaskerville.github.io/personal-site/posts/takamiya-44-1r/</guid>
       <description>[[John Smyth]] willEsq. his will
 Dat 12oDec 1480: 18oEd. 4 In dei no[min]e Amen. In the name of .god. Ame[n] I [[John Smith (senior)|John
 Smyth]] of [[Bury Saint Edmunds|Bury Seynt Edmund]] Esquyer the xij day of *[n.1]
