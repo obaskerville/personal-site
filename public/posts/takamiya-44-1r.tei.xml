@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+          <fileDesc>
+            <titleStmt>
+              <title> Takamiya-44-1r.txt</title>
+              <author>obaskerville</author>
+            </titleStmt>
+            <publicationStmt>
+              <p><date>2021-03-17</date></p>             
+            </publicationStmt>
+            <sourceDesc>
+              <bibl source="https://recogito.pelagios.org/document/8eitybkh5gctdi"/>
+              <biblStruct>
+                <monogr>
+                  
+                  <title>Takamiya-44-1r.txt</title>
+                    
+                </monogr>
+              </biblStruct>
+            </sourceDesc>
+          </fileDesc>
+          <profileDesc>
+              
+              
+              <settingDesc>
+                  <listPlace>
+          <place xml:id="http://sws.geonames.org/2654186">
+              <placeName>Bury St Edmunds</placeName>
+            </place><place xml:id="http://sws.geonames.org/2636564">
+              <placeName>Sudbury</placeName>
+            </place><place xml:id="http://dare.ht.lu.se/places/25658">
+              <placeName>Thetford</placeName>
+            </place><place xml:id="http://sws.geonames.org/2652941">
+              <placeName>Clare</placeName>
+            </place>
+        </listPlace>
+                </settingDesc>
+            </profileDesc>
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+            
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <body><div><p> <persName xml:id="recogito-3e66d312-9303-438f-b847-8a01df826836">John Smyth</persName>]] <del>will</del> Esq. his will\
+Dat 12<sup>o</sup> Dec 1480: 18<sup>o</sup> Ed. 4  \
+\
+In dei no[min]e Amen. In the name of .god. Ame[n] I <persName xml:id="recogito-57397d84-9724-4392-807e-ea16187a56e7">John\
+Smyth</persName> of <placeName ref="http://sws.geonames.org/2654186" xml:id="recogito-4af447f7-cc61-420c-9dc3-f7258c319975" cert="high">Bury Seynt Edmund</placeName>]] Esquyer the xij day of  *[n.1]\
+December the ye[a]r of o[ur] lord god ML CCCCXXX beyng \
+in good &amp; holle mynde make ordeyne &amp; c[on]stitute myn \
+testament &amp; last wyll in this man[ner]. First I bequethe \
+&amp; comend myn soule to almyghty god to his most blyssyd \
+mod[er] our lady <persName xml:id="recogito-544aea35-7ee2-4f8c-b7ab-27ce6173d6c8">seynt Marie</persName> &amp; to all the seynts of hevyn\
+and myn body to be buryed in the Churche of o[ur] lady in the\
+towne of <placeName ref="http://sws.geonames.org/2654186" xml:id="recogito-7d01fa1b-19e6-46db-931f-d5053ba050d0" cert="high">Bury</placeName>]] befor[e] seyd in the Northele before the \
+dor[e] of the awhgter of <persName xml:id="recogito-1b8b58d2-ba2c-4dc6-8025-c2faa446b442">Seynt John</persName> and as for myn\
+wylle or testament be me made befor[e] the dat[e] of\
+this my last wyll &amp; testament I uttyrly revoke &amp;\
+annulle them &amp; wyll not that ony man take any\
+befyer be them but they be utt[er]ly voyde &amp; of non\
+effect Also I bequethe to the high Aughter[e] of the     *[ n.2]\
+Churche of o[ur] lady befor[e]nseyd for myn oblac[i]ons and\
+tythis forgote &amp; not payd XX. s. Also I bequethe &amp;    *[ n.3]\
+geve to the <persName xml:id="recogito-8002d195-1d82-4827-b93a-e6db47d4ba87">Pryo[r] of Bury</persName> befornseyd &amp; to his suc\
+cessoures myn best Stondyng Cups of Sylver &amp; gylt  \
+Also I bequeth to the Secrysteyn of the seyd monast[er]ie *[n.4]\
+XX s. Also I bequethe to  eidy[?] b[r]other of the Covent    *[n.5)\
+be seyd these p[er]sonez that be p[re]s[t]es VI s VIII d.  &amp;\
+to all other[es] that be no p[re]stes [?] s IIII d also I be\
+queth to the ffryrez of <placeName xml:id="recogito-a44df902-5294-47ee-b2d0-e54bf10b9d2c" cert="unknown">Babwell</placeName><note target="recogito-a44df902-5294-47ee-b2d0-e54bf10b9d2c" resp="obaskerville">National Grid Reference for Babwell Friary: TL 85105 66090</note>]] Xiiij [?] Also I be\
+queth to the ffryerz of <placeName ref="http://sws.geonames.org/2636564" xml:id="recogito-997da5aa-c28c-4f9f-bad6-deb61d2a8e9c" cert="high">Subbury</placeName>]] XX s It[e]m I be  *[n.6]\
+queth to the ffryerz of <placeName ref="http://sws.geonames.org/2652941" xml:id="recogito-4d62d235-2a65-443e-9d1f-3d0a31146067" cert="high">Clare</placeName>]] XX s Also I bequeth\
+to eche hous of the ffryerz in <placeName ref="http://dare.ht.lu.se/places/25658" xml:id="recogito-bafaf19b-14b8-4947-816d-855d38a84990" cert="high">Thetford</placeName>]] XX s also       *[n.7]\
+\
+[margin notes in a different hand:]\
+*n.1  Dat 12 Dec 1480  18.Ed. 4\
+*n.2  To y<sup>e</sup> high alter  20[o]\
+*n.3   To y<sup>e</sup> Pryor a silver &amp; gold [?]\
+*n.4   To <sup>e</sup> sacrist 20 [?]     [margins partially obscured]\
+*n.5   To eidy[?] <sup>monke</sup> prist 6<sup>s</sup> to eidy monk no preist [??]    \
+To y<sup>e</sup> Pryor of <placeName xml:id="recogito-3aefb590-98d3-49b1-9157-999a66adf9cb" cert="low">Babw[ell</placeName>] ]] 14 [?]\
+*n. 6   To y<sup>e</sup> Fryeres of <placeName ref="http://sws.geonames.org/2636564" xml:id="recogito-71dcc87d-d8ea-4fb0-acf3-5cb8bd93d2f4" cert="high">Sudbury</placeName>]] 20[o]\
+*n.7   To <placeName ref="http://dare.ht.lu.se/places/25658" xml:id="recogito-78dde936-9245-4b55-96e1-25e6913ea7cb" cert="high">Thetford</placeName>]] Fryers 20\
+\
+[N.B. The page seems to have suffered water damage in places, and in others creases, which make the handwriting difficult to decipher. increasingly difficult to read at bottom of page.]}</p></div></body>
+        </text>
+      </TEI>
